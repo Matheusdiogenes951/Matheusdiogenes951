@@ -1,16 +1,19 @@
-## Hi there 👋
+<h2 align="center">👋 Olá! Seja bem-vindo(a) ao meu perfil no GitHub!</h2>
 
-<!--
-**Matheusdiogenes951/Matheusdiogenes951** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🧠 Quem sou eu?
+Sou um estudante dedicado de programação e, paralelamente, estou me preparando para o ENEM. Meu objetivo é evoluir constantemente no desenvolvimento de soluções eficientes, criativas e com foco em boas práticas, enquanto avanço na minha jornada rumo ao domínio da tecnologia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Minhas estatísticas no GitHub
+<a href="https://github.com/Matheusdiogenes951">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/?username=Matheusdiogenes951&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+</a>
+<a href="https://github.com/Matheusdiogenes951">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheusdiogenes951&layout=compact&langs_count=16&theme=gotham"/>
+</a>
+
+---
+
+### 📬 Como falar comigo?
+📧 Email: **matheusdiorgines26@gmail.com**  

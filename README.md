@@ -7,12 +7,12 @@ Sou um estudante dedicado de programação e, paralelamente, estou me preparando
 
 ### 📊 Minhas estatísticas no GitHub
 <a href="https://github.com/Matheusdiogenes951">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/?username=Matheusdiogenes951&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-</a>
-<a href="https://github.com/Matheusdiogenes951">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheusdiogenes951&layout=compact&langs_count=16&theme=gotham"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Matheusdiogenes951&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&token=SEU_TOKEN_AQUI"/>
 </a>
 
+<a href="https://github.com/Matheusdiogenes951">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheusdiogenes951&layout=compact&langs_count=8&theme=gotham&token=SEU_TOKEN_AQUI"/>
+</a>
 ---
 
 ### 📬 Como falar comigo?

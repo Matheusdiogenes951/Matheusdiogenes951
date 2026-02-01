@@ -8,7 +8,7 @@
 ## 👨‍💻 Matheus Diógenes  
 ### Desenvolvedor de Software | HTML • CSS • JS • Python
 
-> **Base forte. Código limpo. Evolução constante.**
+> **Espero vencer o mundo antes que ele me vença**
 
 ---
 

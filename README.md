@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=Matheus+Di%C3%B3genes;Desenvolvedor+de+Software;HTML5+%7C+CSS3+%7C+JavaScript+%7C+Python+%7C;Code.+Learn.+Evolve." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=Matheus+Di%C3%B3genes;Desenvolvedor+de+Software;HTML5+%7C+CSS3+%7C+JavaScript+%7C+Python;Code.+Learn.+Evolve." />
 </p>
 
 
@@ -29,7 +29,6 @@ Tenho interesse em construir uma base sólida antes de avançar para tecnologias
 
 ### ⚙️ Linguagens de Programação
 ![Python](https://img.shields.io/badge/Python-0d1117?style=flat&logo=python)
-![Java](https://img.shields.io/badge/Java-0d1117?style=flat&logo=java)
 
 ### 🛢️ Bancos de Dados
 ![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=flat&logo=mysql)

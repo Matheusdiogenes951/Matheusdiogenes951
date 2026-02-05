@@ -67,5 +67,4 @@ Construir uma **base sólida como desenvolvedor de software**, dominando bem as 
 
 📧 Email: matheusdiorgines26@gmail.com  
 💼 LinkedIn: https://www.linkedin.com/in/matheus-di%C3%B3genes-493478396/  
-💻 GitHub: https://github.com/MatheusDiogenes951  
 ---

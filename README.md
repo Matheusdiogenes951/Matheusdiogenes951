@@ -51,7 +51,7 @@ Tenho interesse em construir uma base sólida antes de avançar para tecnologias
 - Lógica e interatividade com JavaScript  
 - Lógica de programação e automação com Python  
 - Programação orientada a objetos com Java  
-- Modelagem de dados com MySQL e PostgreSQL  
+- Banco de dados com MySQL e PostgreSQL  
 - Versionamento de código com Git e GitHub  
 - Uso diário de Linux e Windows  
 
